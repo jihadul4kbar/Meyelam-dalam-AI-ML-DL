@@ -16,14 +16,24 @@ Textbook
 
 Technical Book
 1. Programming Computer Vision with Python - http://programmingcomputervision.com/
-2. 
 
 IOT Book 
 
 ## Video
-1. Full Stack Deep Learnin - https://fullstackdeeplearning.com/spring2021
-2. CS231n: Convolutional Neural Networks for Visual Recognition - http://cs231n.stanford.edu/ - https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
-3. Deep Learning for Computer Vision - https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/ - https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
+1. Full Stack Deep Learnin - 
+   - https://fullstackdeeplearning.com/spring2021
+   - https://www.youtube.com/c/FullStackDeepLearning
+3. CS231n: Convolutional Neural Networks for Visual Recognition 
+   - http://cs231n.stanford.edu/ 
+   - https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+4. University of Michigan - Deep Learning for Computer Vision 
+   - https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/ 
+   - https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
+   - https://web.eecs.umich.edu/~justincj/teaching/eecs442/WI2021/
+5. MIT 6.S191 : Introduction to Deep Learning 
+   - http://introtodeeplearning.com/
+   - https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2
+7. dd
 
 ## Tutorial 
 1. Kaggel - https://www.kaggle.com/
