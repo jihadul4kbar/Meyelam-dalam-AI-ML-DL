@@ -1,5 +1,5 @@
-# Meyelam dalam Artificial Intelligence (AI), Machine Learning (ML), Deep Leaerning (DL)
-Catatan dalam belajar mengenal Artificial Intelligence, Machine Learning, Deep Learning
+# Meyelam dalam Artificial Intelligence (AI), Machine Learning (ML), Deep Leaerning (DL) - Computer Vision
+Catatan dalam belajar mengenal Artificial Intelligence, Machine Learning, Deep Learning - Compter Vision
 
 ### Panduan Membaca
 Untuk membaca artikel/buku dalam bahasa indonesia gunakan browser Google Crome untuk mentranslite ke dalam bahasa indonesia. Sedangakan untuk membaca artikel/jurnal/buku dalam bentuk file pdf yang ingin di translite gunakan google translite untuk merubahnya kedalam bahasa indonesia - https://translate.google.co.id/?hl=id&sl=en&tl=id&op=docs
@@ -7,13 +7,23 @@ Untuk membaca artikel/buku dalam bahasa indonesia gunakan browser Google Crome u
 ## Buku
 Bacaan Online
 1. Neural Networks and Deep Learning is a free online book - http://neuralnetworksanddeeplearning.com/
-2. Dive into Deep Learning - https://d2l.ai/index.html 
+2. Machine Learning Mastery! - https://machinelearningmastery.com/start-here/
+3. Dive into Deep Learning - https://d2l.ai/index.html 
+4. 
 
-Bacaan Offline / PDF
-1. 
+Textbook
+1. Computer Vision: Algorithms and Applications, 2nd ed. - http://szeliski.org/Book/
+
+Technical Book
+1. Programming Computer Vision with Python - http://programmingcomputervision.com/
+2. 
+
+IOT Book 
 
 ## Video
 1. Full Stack Deep Learnin - https://fullstackdeeplearning.com/spring2021
+2. CS231n: Convolutional Neural Networks for Visual Recognition - http://cs231n.stanford.edu/ - https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+3. Deep Learning for Computer Vision - https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/ - https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
 
 ## Tutorial 
 1. Kaggel - https://www.kaggle.com/
