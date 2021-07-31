@@ -10,4 +10,5 @@
       conda activate myenv
 3. Install jupyter notebook / https://jupyter.org/install
    conda install -c conda-forge notebook
-   
+4. Runing jupyter notebook
+   jupyter notebook
