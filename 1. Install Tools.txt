@@ -1,0 +1,15 @@
+1. Install Miniconda 
+   Download miniconda from link https://docs.conda.io/en/latest/miniconda.html, select according to the operating system used. After finish download install miniconda on your oprating sistem.
+2. Configuration environmen 
+   a. To create an environment:
+      conda create --name myenv 
+      #myenv is your env
+   b. When conda asks you to proceed, type y:
+      proceed ([y]/n)? 
+   c. active your environment 
+      conda activate myenv
+3. Install pip
+   I am use linux ubuntu, in terminal type sudo apt install python-3 pip
+4. Install Jupyter Notebook 
+   pip install notebook
+5. 
