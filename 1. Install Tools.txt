@@ -8,8 +8,6 @@
       proceed ([y]/n)? 
    c. active your environment 
       conda activate myenv
-3. Install pip
-   I am use linux ubuntu, in terminal type sudo apt install python-3 pip
-4. Install Jupyter Notebook 
-   pip install notebook
-5. 
+3. Install jupyter notebook / https://jupyter.org/install
+   conda install -c conda-forge notebook
+   
