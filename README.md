@@ -37,6 +37,9 @@ IOT Book
 
 ## Tutorial 
 1. Kaggel - https://www.kaggle.com/
+2. Machine Learning Collection - https://github.com/aladdinpersson/Machine-Learning-Collection
+
+
 ## Algoritma 
 
 ## Dataset
