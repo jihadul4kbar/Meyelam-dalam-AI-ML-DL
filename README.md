@@ -33,7 +33,10 @@ IOT Book
 5. MIT 6.S191 : Introduction to Deep Learning 
    - http://introtodeeplearning.com/
    - https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2
-7. dd
+7. Telkom University Computer Vision
+   - https://anditya.staff.telkomuniversity.ac.id/academic/cv/
+   - https://www.youtube.com/watch?v=lDrexeTiDtI&list=PLcYqQ2VpYNYu8kVYoJLbsnsOFjzST5wCG
+9. 
 
 ## Tutorial 
 1. Kaggel - https://www.kaggle.com/
