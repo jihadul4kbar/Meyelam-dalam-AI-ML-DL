@@ -36,7 +36,11 @@ IOT Book
 7. Telkom University Computer Vision
    - https://anditya.staff.telkomuniversity.ac.id/academic/cv/
    - https://www.youtube.com/watch?v=lDrexeTiDtI&list=PLcYqQ2VpYNYu8kVYoJLbsnsOFjzST5wCG
-9. 
+9. University of Central Florida
+   - https://www.crcv.ucf.edu/courses/cap6412-spring-2020/ - https://www.crcv.ucf.edu/courses/cap4453-spring-2021/
+   - https://www.youtube.com/playlist?list=PLd3hlSJsX_Ikm5il1HgmDB_z62BeoikFX
+11. 
+
 
 ## Tutorial 
 1. Kaggel - https://www.kaggle.com/
