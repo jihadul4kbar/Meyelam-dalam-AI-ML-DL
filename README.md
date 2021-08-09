@@ -2,7 +2,7 @@
 Catatan dalam belajar mengenal Artificial Intelligence, Machine Learning, Deep Learning - Compter Vision
 
 ### Panduan Membaca
-Untuk membaca artikel/buku dalam bahasa indonesia gunakan browser Google Crome untuk mentranslite ke dalam bahasa indonesia. Sedangakan untuk membaca artikel/jurnal/buku dalam bentuk file pdf yang ingin di translite gunakan google translite untuk merubahnya kedalam bahasa indonesia - https://translate.google.co.id/?hl=id&sl=en&tl=id&op=docs
+Gunakan google translate  - https://translate.google.co.id/?hl=id&sl=en&tl=id&op=docs
 
 ## Buku
 Bacaan Online
