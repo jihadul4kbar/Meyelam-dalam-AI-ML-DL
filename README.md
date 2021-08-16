@@ -33,13 +33,16 @@ IOT Book
 5. MIT 6.S191 : Introduction to Deep Learning 
    - http://introtodeeplearning.com/
    - https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2
-7. Telkom University Computer Vision
-   - https://anditya.staff.telkomuniversity.ac.id/academic/cv/
-   - https://www.youtube.com/watch?v=lDrexeTiDtI&list=PLcYqQ2VpYNYu8kVYoJLbsnsOFjzST5wCG
-9. University of Central Florida
+6. University of Central Florida
    - https://www.crcv.ucf.edu/courses/cap6412-spring-2020/ - https://www.crcv.ucf.edu/courses/cap4453-spring-2021/
    - https://www.youtube.com/playlist?list=PLd3hlSJsX_Ikm5il1HgmDB_z62BeoikFX
-11. 
+
+
+## Belajar Bahasa Indonesia Computer Vision 
+1. Telkom University Computer Vision
+   - https://anditya.staff.telkomuniversity.ac.id/academic/cv/
+   - https://www.youtube.com/watch?v=lDrexeTiDtI&list=PLcYqQ2VpYNYu8kVYoJLbsnsOFjzST5wCG
+2. https://github.com/Muhammad-Yunus/Belajar-Computer-Vision
 
 
 ## Tutorial 
