@@ -36,6 +36,8 @@ IOT Book
 6. University of Central Florida
    - https://www.crcv.ucf.edu/courses/cap6412-spring-2020/ - https://www.crcv.ucf.edu/courses/cap4453-spring-2021/
    - https://www.youtube.com/playlist?list=PLd3hlSJsX_Ikm5il1HgmDB_z62BeoikFX
+7. Laboratorium Hvass
+   - https://www.youtube.com/watch?v=er8RQZoX3yk&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ
 
 
 ## Belajar Bahasa Indonesia Computer Vision 
