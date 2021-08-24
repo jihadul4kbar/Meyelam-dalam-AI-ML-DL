@@ -38,6 +38,8 @@ IOT Book
    - https://www.youtube.com/playlist?list=PLd3hlSJsX_Ikm5il1HgmDB_z62BeoikFX
 7. Laboratorium Hvass
    - https://www.youtube.com/watch?v=er8RQZoX3yk&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ
+8. University Of Oxford
+   - https://www.robots.ox.ac.uk/~vgg/practicals/overview/#convolutional-neural-networks
 
 
 ## Belajar Bahasa Indonesia Computer Vision 
