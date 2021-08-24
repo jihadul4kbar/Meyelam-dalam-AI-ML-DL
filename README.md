@@ -47,6 +47,10 @@ IOT Book
    - https://anditya.staff.telkomuniversity.ac.id/academic/cv/
    - https://www.youtube.com/watch?v=lDrexeTiDtI&list=PLcYqQ2VpYNYu8kVYoJLbsnsOFjzST5wCG
 2. https://github.com/Muhammad-Yunus/Belajar-Computer-Vision
+3. Universitas Gajah Mada 
+   - https://sunu.staff.ugm.ac.id/kuliah-ai/
+   - https://www.youtube.com/playlist?list=PLx-HKa1vQHeBfXIvQMZ1VFddOo9i8rmc0
+5. 
 
 
 ## Tutorial 
