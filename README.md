@@ -51,5 +51,8 @@ IOT Book
 ## Teknical Book
 1. Natural Language Processing with Python - [Link](http://www.nltk.org/book/)
 
+## Course 
+1. [Hugging Face](https://huggingface.co/course/chapter1)
+
 
 
