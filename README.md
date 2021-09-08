@@ -1,5 +1,5 @@
-# Meyelam dalam Artificial Intelligence (AI), Machine Learning (ML), Deep Leaerning (DL) - Computer Vision
-Catatan dalam belajar mengenal Artificial Intelligence, Machine Learning, Deep Learning - Compter Vision
+# Artificial Intelligence (AI), Machine Learning (ML), Deep Leaerning (DL) - Computer Vision - Natural Language Processing
+Catatan dalam belajar mengenal Artificial Intelligence, Machine Learning, Deep Learning - Compter Vision - Natural Language Processing
 
 ### Panduan Membaca
 [Gunakan google translate](https://translate.google.co.id/?hl=id&sl=en&tl=id&op=docs)
