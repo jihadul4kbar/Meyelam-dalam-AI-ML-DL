@@ -51,6 +51,9 @@ IOT Book
 ## Teknical Book
 1. Natural Language Processing with Python - [Link](http://www.nltk.org/book/)
 2. Awesome Indonesia NLP - [Link](https://github.com/irfnrdh/Awesome-Indonesia-NLP)
+3. Indonesian NLP resources - [Link](https://github.com/kmkurn/id-nlp-resource)
+4. Bahasa Indo NLP Dataset [Link](https://github.com/keyreply/Bahasa-Indo-NLP-Dataset)
+
 
 ## Course 
 1. [Hugging Face](https://huggingface.co/course/chapter1)
