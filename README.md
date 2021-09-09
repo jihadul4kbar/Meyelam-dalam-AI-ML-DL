@@ -56,7 +56,8 @@ IOT Book
 
 
 ## Course 
-1. [Hugging Face](https://huggingface.co/course/chapter1)
+1. Stanford University - [link](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
+2. [Hugging Face](https://huggingface.co/course/chapter1)
 
 
 
