@@ -56,7 +56,7 @@ IOT Book
 
 
 ## Course 
-1. Stanford University - [link](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
+1. Stanford University - [web](http://web.stanford.edu/class/cs224n/) - [link](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 2. [Hugging Face](https://huggingface.co/course/chapter1)
 
 
