@@ -50,9 +50,12 @@ IOT Book
 
 ## Teknical Book
 1. Natural Language Processing with Python - [Link](http://www.nltk.org/book/)
+2. Awesome Indonesia NLP - [Link](https://github.com/irfnrdh/Awesome-Indonesia-NLP)
 
 ## Course 
 1. [Hugging Face](https://huggingface.co/course/chapter1)
+
+
 
 
 
