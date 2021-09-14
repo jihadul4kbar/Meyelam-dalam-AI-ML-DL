@@ -55,6 +55,9 @@ IOT Book
 4. Bahasa Indo NLP Dataset [Link](https://github.com/keyreply/Bahasa-Indo-NLP-Dataset)
 
 
+## Tutorial 
+1. Natural Language Processing Tutorial for Deep Learning Researchers [link](https://github.com/graykode/nlp-tutorial)
+
 ## Course 
 1. Stanford University - [web](http://web.stanford.edu/class/cs224n/) - [link](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 2. [Hugging Face](https://huggingface.co/course/chapter1)
