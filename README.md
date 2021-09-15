@@ -62,6 +62,9 @@ IOT Book
 1. Stanford University - [web](http://web.stanford.edu/class/cs224n/) - [link](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 2. [Hugging Face](https://huggingface.co/course/chapter1)
 
+## NLP Bahasa Indonesia 
+1. NLP in Bahasa Indonesia [Link](https://github.com/louisowen6/NLP_bahasa_resources)
+
 
 
 
