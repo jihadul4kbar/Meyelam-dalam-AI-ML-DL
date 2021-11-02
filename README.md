@@ -40,7 +40,7 @@ IOT Book
 ## Tutorial 
 1. [Kaggel](https://www.kaggle.com/)
 2. [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)
-
+3. [Python for Data Analysis](https://www.youtube.com/playlist?list=PLiC1doDIe9rCYWmH9wIEYEXXaJ4KAi3jc)
 
 ## Algoritma 
 
