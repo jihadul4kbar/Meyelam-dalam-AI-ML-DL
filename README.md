@@ -61,7 +61,7 @@ IOT Book
 ## Course 
 1. Stanford University - [web](http://web.stanford.edu/class/cs224n/) - [link](https://www.youtube.com/playlist?list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 2. [Hugging Face](https://huggingface.co/course/chapter1)
-3. CS 124: From Languages to Information - Stanford University - [web](http://web.stanford.edu/class/cs124/) [link Youtube](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA)
+3. CS 124: From Languages to Information - Stanford University - [web](http://web.stanford.edu/class/cs124/) [link Youtube](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA) - [textbook](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## NLP Bahasa Indonesia 
 1. NLP in Bahasa Indonesia [Link](https://github.com/louisowen6/NLP_bahasa_resources)
