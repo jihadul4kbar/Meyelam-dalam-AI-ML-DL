@@ -66,6 +66,7 @@ IOT Book
 ## NLP Bahasa Indonesia 
 1. NLP in Bahasa Indonesia [Link](https://github.com/louisowen6/NLP_bahasa_resources)
 2. GreyAtom Edutech [Link](https://github.com/commit-live-students)
+3. Preprosessing Text [Link](https://fitri170048.github.io/Text_Preprocessing/)
 
 
 
