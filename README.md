@@ -53,6 +53,7 @@ IOT Book
 2. Awesome Indonesia NLP - [Link](https://github.com/irfnrdh/Awesome-Indonesia-NLP)
 3. Indonesian NLP resources - [Link](https://github.com/kmkurn/id-nlp-resource)
 4. Bahasa Indo NLP Dataset [Link](https://github.com/keyreply/Bahasa-Indo-NLP-Dataset)
+5. Speech and Language Processing [Link](https://web.stanford.edu/~jurafsky/slp3/)
 
 
 ## Tutorial 
